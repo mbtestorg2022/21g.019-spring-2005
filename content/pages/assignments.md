@@ -151,9 +151,69 @@ The final report should include footnotes and a bibliography.
 
 The entire report is worth 30 points with each step worth the following:
 
-| TASKs | POINTS | DUE DATES |
-| --- | --- | --- |
-| Proposal I and Proposal II | 5 | 1 day after session 12 and session 15 |
-| First Draft | 10 | 3 days after session 19 |
-| Final Report | 15 | 3 days after session 24 |
-| Oral Presentation | 25 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TASKs
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposal I and Proposal II
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+1 day after session 12 and session 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Draft
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+3 days after session 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Report
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+3 days after session 24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,29 +4,334 @@ title: Calendar
 uid: b05df3a5-e3d0-8ce9-efc0-1aeb65a91055
 ---
 
-| ses # | topics | key dates |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction to Course and Each Other {{< br >}}{{< br >}} Why Intercultural Communication Is Hard {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Cultural Patterning and Variability | &nbsp; |
-| 3 | Cultural Patterning and Variability (cont.) | Cultural self-assessment assignment due |
-| 4 | The Unique Relationship Between Culture and Communication | &nbsp; |
-| 5 | Intercultural Interaction: Verbal Communication (With a Special Emphasis on Communication Between the Genders) | &nbsp; |
-| 6 | Intercultural Interaction: Nonverbal Communication | &nbsp; |
-| 7 | Intercultural Challenges | &nbsp; |
-| 8 | Intercultural Communication Practices: Managing, Negotiating, and Persuading | &nbsp; |
-| 9 | Intercultural Communication Practices: Teamwork | &nbsp; |
-| 10 | Germany | &nbsp; |
-| 11 | Germany (cont.) | Book essay first draft due |
-| 12 |  {{< br >}}{{< br >}} Mexico {{< br >}}{{< br >}} Guest Speaker: Amy Kircaldy, Coordinator, MIT Mexico Program {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Mexico (cont.) | &nbsp; |
-| 14 | Arab Cultures | &nbsp; |
-| 15 | Arab Cultures (cont.) | Book essay final draft due |
-| 16 | African Cultures | &nbsp; |
-| 17 | Traditional African Cultures (cont.) | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Japan {{< br >}}{{< br >}} Guest Speaker: Patricia Gercik, Assoc Director, MISTI  {{< br >}}Managing Director, MIT-Japan Program {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Japan (cont.) | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} China {{< br >}}{{< br >}} Guest Speaker: Shan-nan Chang, Director of Cultural Division, Taipei Economic and Cultural Office in Boston {{< br >}}{{< br >}}  | &nbsp; |
-| 21 | China (cont.) | &nbsp; |
-| 22 | The Annual 21G.019 Movie and Potluck Dinner | &nbsp; |
-| 23-25 | Team Presentations | Oral presentation and team report due |
-| 26 | Wrap Up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Course and Each Other
+
+Why Intercultural Communication Is Hard
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Patterning and Variability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Patterning and Variability (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural self-assessment assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Unique Relationship Between Culture and Communication
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Intercultural Interaction: Verbal Communication (With a Special Emphasis on Communication Between the Genders)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Intercultural Interaction: Nonverbal Communication
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Intercultural Challenges
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Intercultural Communication Practices: Managing, Negotiating, and Persuading
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Intercultural Communication Practices: Teamwork
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Germany
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Germany (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Book essay first draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mexico
+
+Guest Speaker: Amy Kircaldy, Coordinator, MIT Mexico Program
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Mexico (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Arab Cultures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Arab Cultures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Book essay final draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+African Cultures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional African Cultures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Japan
+
+Guest Speaker: Patricia Gercik, Assoc Director, MISTI  
+Managing Director, MIT-Japan Program
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Japan (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+China
+
+Guest Speaker: Shan-nan Chang, Director of Cultural Division, Taipei Economic and Cultural Office in Boston
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+China (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Annual 21G.019 Movie and Potluck Dinner
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-25
+{{< tdclose >}}
+{{< tdopen >}}
+Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation and team report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
